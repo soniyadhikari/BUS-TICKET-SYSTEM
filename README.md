@@ -1,7 +1,3 @@
- it! Here’s a revised README file tailored for your project in C:
-
-markdown
-Copy code
 # Bus Ticket Booking System
 
 Welcome to the Bus Ticket Booking System repository. This project is designed to facilitate bus ticket reservations using C programming, providing users with a basic console application for booking bus tickets.
